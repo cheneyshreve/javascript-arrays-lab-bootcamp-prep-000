@@ -1,21 +1,23 @@
 const app = "I don't do much."
 
-destructivelyAppendKitten(name){
-  
+var kittens = ["Milo","Otis","Garfield"]
+
+function destructivelyAppendKitten(name){
+
 }
 
-destructivelPrependKitten(name){
-  
+functiondestructivelPrependKitten(name){
+
 }
 
-destructivelyRemoveLastKitten(){
-  
+function destructivelyRemoveLastKitten(){
+
 }
 
-destructivelyRemoveFirstKitten(){
-  
+function destructivelyRemoveFirstKitten(){
+
 }
 
-appendKitten(name){
+function appendKitten(name){
   
 }
