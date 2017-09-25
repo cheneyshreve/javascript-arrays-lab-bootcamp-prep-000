@@ -37,9 +37,11 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
-  
+ var meow = kittens.pop()
+ return meow
 }
 
 function removeFirstKitten(){
-  
+ var scratch = kittens.shift()
+ return scratch
 }
