@@ -37,7 +37,7 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
- var meow = kittens.pop()
+ var meow = kittens.slice(0,-1)
  return meow
 }
 
